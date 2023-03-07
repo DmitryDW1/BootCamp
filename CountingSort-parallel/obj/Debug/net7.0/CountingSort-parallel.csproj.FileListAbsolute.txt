@@ -1,0 +1,15 @@
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\bin\Debug\net7.0\CountingSort-parallel.exe
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\bin\Debug\net7.0\CountingSort-parallel.deps.json
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\bin\Debug\net7.0\CountingSort-parallel.runtimeconfig.json
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\bin\Debug\net7.0\CountingSort-parallel.dll
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\bin\Debug\net7.0\CountingSort-parallel.pdb
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\obj\Debug\net7.0\CountingSort-parallel.csproj.AssemblyReference.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\obj\Debug\net7.0\CountingSort-parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\obj\Debug\net7.0\CountingSort-parallel.AssemblyInfoInputs.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\obj\Debug\net7.0\CountingSort-parallel.AssemblyInfo.cs
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\obj\Debug\net7.0\CountingSort-parallel.csproj.CoreCompileInputs.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\obj\Debug\net7.0\CountingSort-parallel.dll
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\obj\Debug\net7.0\refint\CountingSort-parallel.dll
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\obj\Debug\net7.0\CountingSort-parallel.pdb
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\obj\Debug\net7.0\CountingSort-parallel.genruntimeconfig.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\CountingSort-parallel\obj\Debug\net7.0\ref\CountingSort-parallel.dll
