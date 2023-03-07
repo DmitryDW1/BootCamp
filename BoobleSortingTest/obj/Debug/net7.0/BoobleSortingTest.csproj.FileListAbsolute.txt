@@ -1,0 +1,15 @@
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\obj\Debug\net7.0\BoobleSortingTest.csproj.AssemblyReference.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\obj\Debug\net7.0\BoobleSortingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\obj\Debug\net7.0\BoobleSortingTest.AssemblyInfoInputs.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\obj\Debug\net7.0\BoobleSortingTest.AssemblyInfo.cs
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\obj\Debug\net7.0\BoobleSortingTest.csproj.CoreCompileInputs.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\bin\Debug\net7.0\BoobleSortingTest.exe
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\bin\Debug\net7.0\BoobleSortingTest.deps.json
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\bin\Debug\net7.0\BoobleSortingTest.runtimeconfig.json
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\bin\Debug\net7.0\BoobleSortingTest.dll
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\bin\Debug\net7.0\BoobleSortingTest.pdb
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\obj\Debug\net7.0\BoobleSortingTest.dll
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\obj\Debug\net7.0\refint\BoobleSortingTest.dll
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\obj\Debug\net7.0\BoobleSortingTest.pdb
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\obj\Debug\net7.0\BoobleSortingTest.genruntimeconfig.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\BoobleSortingTest\obj\Debug\net7.0\ref\BoobleSortingTest.dll
