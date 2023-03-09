@@ -1,0 +1,15 @@
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\bin\Debug\net7.0\EfficiencyAlgorithm.exe
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\bin\Debug\net7.0\EfficiencyAlgorithm.deps.json
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\bin\Debug\net7.0\EfficiencyAlgorithm.runtimeconfig.json
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\bin\Debug\net7.0\EfficiencyAlgorithm.dll
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\bin\Debug\net7.0\EfficiencyAlgorithm.pdb
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\obj\Debug\net7.0\EfficiencyAlgorithm.csproj.AssemblyReference.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\obj\Debug\net7.0\EfficiencyAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\obj\Debug\net7.0\EfficiencyAlgorithm.AssemblyInfoInputs.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\obj\Debug\net7.0\EfficiencyAlgorithm.AssemblyInfo.cs
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\obj\Debug\net7.0\EfficiencyAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\obj\Debug\net7.0\EfficiencyAlgorithm.dll
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\obj\Debug\net7.0\refint\EfficiencyAlgorithm.dll
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\obj\Debug\net7.0\EfficiencyAlgorithm.pdb
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\obj\Debug\net7.0\EfficiencyAlgorithm.genruntimeconfig.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\EfficiencyAlgorithm\obj\Debug\net7.0\ref\EfficiencyAlgorithm.dll

@@ -1,0 +1,15 @@
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\bin\Debug\net7.0\ParallelMatrixMul.exe
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\bin\Debug\net7.0\ParallelMatrixMul.deps.json
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\bin\Debug\net7.0\ParallelMatrixMul.runtimeconfig.json
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\bin\Debug\net7.0\ParallelMatrixMul.dll
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\bin\Debug\net7.0\ParallelMatrixMul.pdb
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\obj\Debug\net7.0\ParallelMatrixMul.csproj.AssemblyReference.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\obj\Debug\net7.0\ParallelMatrixMul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\obj\Debug\net7.0\ParallelMatrixMul.AssemblyInfoInputs.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\obj\Debug\net7.0\ParallelMatrixMul.AssemblyInfo.cs
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\obj\Debug\net7.0\ParallelMatrixMul.csproj.CoreCompileInputs.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\obj\Debug\net7.0\ParallelMatrixMul.dll
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\obj\Debug\net7.0\refint\ParallelMatrixMul.dll
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\obj\Debug\net7.0\ParallelMatrixMul.pdb
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\obj\Debug\net7.0\ParallelMatrixMul.genruntimeconfig.cache
+C:\Users\DmitryDW\Documents\GeekBrains\BOOT_CAMP\ParallelMatrixMul\obj\Debug\net7.0\ref\ParallelMatrixMul.dll
