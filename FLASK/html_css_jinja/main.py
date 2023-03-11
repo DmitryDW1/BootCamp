@@ -1,36 +1,24 @@
 from flask import Flask, render_template
-from random import randint as rd
+from LoginForm import Lf
 
 app = Flask(__name__)
+app.config['SECRET_KEY'] = 'hello hello hello hello hello hello'
 
 @app.route('/')
 def main():
-    with open('file.txt', 'r', encoding='utf-8') as file:
-        resultData = list()
-        for line in file.readlines():
-            resultData.append(tuple(line.split('\n')[0].split(';')))
-            
-    return render_template('base.html', data=resultData)
+    return render_template('base.html')
+  
 
 
-@app.route('/about')
-def about():
-    return render_template('about.html')
+@app.route('/register')
+def reg():
+    form = Lf()
+    if form.validate_on_submit():
+        pass
+
+    return render_template('register.html', title = 'Регистрация', form=form)
+    
+
 if __name__ == '__main__':
     app.run()
 
-# file = open('file.txt', 'r', encoding='utf-8')
-
-# list_1 = list()
-# resultData = list()
-# for line in file.readlines():
-#     resultData.append(tuple(line.split('\n')[0].split(';')))
-
-# file.close()
-
-# print(resultData)
-# '''
-# а - режим добавление
-# w - режим на запись(очищает файл)
-# r - режим считывания
-# '''
