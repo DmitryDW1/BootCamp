@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./html_css_jinja"
+    ]
+}

@@ -4,9 +4,6 @@
 {% if form %}
 <form action="" method="post">
     {{ form.csrf_token }}
-
-    {{ form.name.label }}
-    {{ form.name }}
     <br>
     {{ form.email.label }}
     {{ form.email }}
@@ -14,19 +11,10 @@
     {{ form.password.label }}
     {{ form.password }}
     <br>
-    {{ form.password_a.label }}
-    {{ form.password_a }}
-    <br>
-    {{ form.remember_me.label }}
-    {{ form.remember_me() }}
-    <br>
     {{ form.submit() }}
 {% endif %}
 
-{% if message == 'Регистрация прошла успешно'%}    
-    <a href="/log">Авторизация</a>
     {{ message }}
-{% endif %}
 
 </form>
 
